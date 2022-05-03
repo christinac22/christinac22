@@ -1,9 +1,9 @@
 <h1 align="left">Hi there 👋, I'm Christina</h1>
 
 ### About Me:
-- 🔭 I'm a part-time boot camp student and a business analyst by day
+- 🔭 I'm a part-time data analytics boot camp student.
 - 🌱 I’m currently developing my Python and SQL skillsets.
-- 📌 Goal 2022: Finish my part-time data analytics boot camp and secure a data analyst role.
+- 📌 My goal is to secure a data analyst job once boot camp concludes.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
