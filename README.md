@@ -1,5 +1,7 @@
 <h1 align="left">Hi there 👋, I'm Christina</h1>
 
+#### I’m a student, creative thinker, and aspiring data analyst.
+
 ### About Me:
 - 🔭 I'm a part-time student at the USC Viterbi Data Analytics Boot Camp.
 - 🌱 I’m currently developing my skillsets in SQL, Python, Tableau, and HTML5/CSS.
