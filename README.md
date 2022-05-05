@@ -2,7 +2,7 @@
 
 ### About Me:
 - 🔭 I'm a part-time data analytics boot camp student.
-- 🌱 I’m currently developing my Python and SQL skillsets.
+- 🌱 I’m currently developing my skillsets in SQL, Python, CSS, HTML5, and JavaScript.
 - 📌 My goal is to secure a data analyst job once boot camp concludes.
 
 ### :hammer_and_wrench: Languages and Tools :
