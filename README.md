@@ -4,6 +4,7 @@
 - 🔭 I'm a part-time student at the USC Viterbi Data Analytics Boot Camp.
 - 🌱 I’m currently developing my skillsets in SQL, Python, Tableau, and HTML5/CSS.
 - 📌 My goal is to secure a data analyst job once boot camp concludes.
+- 📫 You can reach me at: **christinachau96@gmail.com**
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -13,9 +14,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 </div>
-
-### 🙂 Connect with Me:
-<p align="left">
-<a href="https://linkedin.com/in/christinachau22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christinac22" height="30" width="40" /></a>
-</p>
-
