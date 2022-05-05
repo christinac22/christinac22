@@ -2,7 +2,7 @@
 
 ### About Me:
 - 🔭 I'm a part-time student at the USC Viterbi Data Analytics Boot Camp.
-- 🌱 I’m currently developing my skillsets in Excel, Python, JavaScript (D3.js, Leaflet.js), HTML5/CSS, API Interactions, Social Media Mining, SQL, Tableau, Advanced Statistics, Machine Learning, R, and Git/GitHub.
+- 🌱 I’m currently developing my skillsets in SQL, Python, Tableau, and HTML5/CSS.
 - 📌 My goal is to secure a data analyst job once boot camp concludes.
 
 ### :hammer_and_wrench: Languages and Tools :
