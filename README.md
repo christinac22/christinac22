@@ -5,7 +5,6 @@
 ### About Me:
 - 🔭 I'm currently pursing a non-education certificate from the University of Southern California Viterbi Data Analytics Boot Camp.
 - 🌱 I’m currently developing my skillsets in SQL, Python, Tableau, and HTML5/CSS.
-- 📌 My goal is to secure a data analyst job once boot camp concludes.
 - 📫 You can reach me at: **christinachau96@gmail.com**
 
 ### :hammer_and_wrench: Languages and Tools :
