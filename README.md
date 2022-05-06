@@ -3,7 +3,7 @@
 #### I’m a student, creative thinker, and aspiring data analyst.
 
 ### About Me:
-- 🔭 I'm currently pursing a non-education certificate from the University of Southern California Viterbi Data Analytics Boot Camp.
+- 🔭 I'm currently pursing a certificate from the University of Southern California Viterbi Data Analytics Boot Camp.
 - 🌱 I’m currently developing my skillsets in SQL, Python, Tableau, and HTML5/CSS.
 - 📫 You can reach me at: **christinachau96@gmail.com**
 
