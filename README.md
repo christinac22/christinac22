@@ -1,7 +1,7 @@
 <h1 align="left">Hi there, I'm Christina 👋</h1>
 
 ### About Me:
-- 🔭 I'm received a certificate from the University of Southern California Viterbi Data Analytics Boot Camp.
+- 🔭 I received a certificate from the University of Southern California Viterbi Data Analytics Boot Camp.
 - 🌱 I’m currently developing my skillsets in SQL, Python Pandas, and Tableau.
 - 📫 You can reach me at: **christinachau96@gmail.com**
 
